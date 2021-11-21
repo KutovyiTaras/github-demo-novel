@@ -1,4 +1,8 @@
 Chapter 1
 I did my best
 and also he did.
+<<<<<<< HEAD
 I did it myself
+=======
+I
+>>>>>>> parent of d424c21 (Adding of I did)
